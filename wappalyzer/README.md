@@ -1,6 +1,5 @@
 # Wappalyzer
 
-![Wappalyzer Screenshot](images/wappalyzer.png)
 
 ## What It Does
 
