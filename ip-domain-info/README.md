@@ -12,7 +12,7 @@ It helps users quickly view key details such as IP address, DNS records, hosting
 * Shows **IP address and hosting details**
 * Displays **DNS and domain information**
 * Useful for learning **OSINT and network analysis**
-* Helps understand how websites are structured
+* Helps understand how websites are structured.
 
 ## Key Features
 
